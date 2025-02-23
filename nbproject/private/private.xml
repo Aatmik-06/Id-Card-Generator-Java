@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/signup.jsp</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/index.html</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/style.css</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/home.css</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/index.jsp</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/signup.css</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/NetBeansProjects/ID_Card_Generator/web/home.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/AdminLoginDAO.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/AdminLoginBean.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/IdCardBean.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/com.project.controller/logincontroller.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/IdCardDAO.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/index.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/UserBean.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/UsersDAO.java</file>
         </group>
     </open-files>
 </project-private>

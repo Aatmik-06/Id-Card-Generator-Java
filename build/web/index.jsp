@@ -14,7 +14,7 @@
     </head>
    <body>
      <div id="main">
-      <form action="loginController" id="form-main">
+      <form action="loginController.jsp" id="form-main">
         <h1>Login</h1>
         <p id="p">Enter your email and password to access account.</p>
         <br />

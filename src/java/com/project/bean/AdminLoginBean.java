@@ -8,29 +8,29 @@ package com.project.bean;
  *
  * @author adi18
  */
-public class UserBean {
+public class AdminLoginBean {
     
-    private int empId;
+    private int adminId;
     private String email;
-    private String userName;
+    private String name;
     private String password;
 
-    public UserBean() {
+    public AdminLoginBean() {
     }
 
-    public UserBean(int empId, String email, String userName, String password) {
-        this.empId = empId;
+    public AdminLoginBean(int adminId, String email, String name, String password) {
+        this.adminId = adminId;
         this.email = email;
-        this.userName = userName;
+        this.name = name;
         this.password = password;
     }
 
-    public int getEmpId() {
-        return empId;
+    public int getAdminId() {
+        return adminId;
     }
 
-    public void setEmpId(int empId) {
-        this.empId = empId;
+    public void setAdminId(int adminId) {
+        this.adminId = adminId;
     }
 
     public String getEmail() {
@@ -41,12 +41,12 @@ public class UserBean {
         this.email = email;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getName() {
+        return name;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getPassword() {
@@ -56,7 +56,4 @@ public class UserBean {
     public void setPassword(String password) {
         this.password = password;
     }
-    
-    
-    
 }

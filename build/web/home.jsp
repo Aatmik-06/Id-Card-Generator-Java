@@ -21,8 +21,8 @@
       </div>
       <div class="nav-links">
           <a href="https://images.app.goo.gl/5ipSG6Ne4C7LbaVE8">    <img src="https://images.app.goo.gl/5ipSG6Ne4C7LbaVE8" alt=""> </a>
-          <a href="login.jsp" class="nav-link"> <button class="signup-btn">Login</button></a>
-          <a href="signup.jsp" class="nav-link"> <button class="signup-btn">Sign Up</button></a>
+          <a href="adminlogin.jsp" class="nav-link"> <button class="signup-btn">Admin Login</button></a>
+          
       </div>
     </div>
   </nav>
