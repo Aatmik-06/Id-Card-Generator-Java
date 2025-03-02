@@ -3,15 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/AdminLoginDAO.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/AdminLoginBean.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/IdCardBean.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/com.project.controller/logincontroller.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/adminlogin.css</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/EditIdCard.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/viewcontroller.css</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/idcard.css</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/adminlogin.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/adminController.jsp</file>
             <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/IdCardDAO.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/index.jsp</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/AdminDAO.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/bean/UserBean.java</file>
-            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/src/java/com/project/dao/UsersDAO.java</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/dashBoard_Add_Id_Card.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/searchById.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/viewIdCardsController.jsp</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/add_Id_Card.css</file>
+            <file>file:/C:/Users/adi18/OneDrive/Documents/ID_Card_Generator/web/searchByIdController.jsp</file>
         </group>
     </open-files>
 </project-private>

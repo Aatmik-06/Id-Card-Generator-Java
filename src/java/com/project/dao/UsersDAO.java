@@ -63,9 +63,9 @@ public class UsersDAO {
         int r = ud.loginCheck("mark", "0000");
 
         if (r > 0) {
-            System.out.println("<h1><font color='blue'>Login Success</font></h1>");
+            System.out.println("Login Success");
         } else {
-            System.out.println("<h1><font color='red'>Login Fail.....Please Try Again</font></h1>");
+            System.out.println("Login Fail.....Please Try Again");
         }
     }
 

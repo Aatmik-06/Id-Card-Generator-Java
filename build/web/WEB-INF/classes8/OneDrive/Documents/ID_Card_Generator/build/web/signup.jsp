@@ -15,7 +15,7 @@
     <body>
         <div  id="main" >
     
-        <form action="signupcontroller" id="form-main"> 
+        <form action="signupController.jsp" id="form-main"> 
         <h1>Sign Up</h1>
         <p id="p">Enter your details to create a account.</p>
         <br>

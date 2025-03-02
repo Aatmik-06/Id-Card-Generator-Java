@@ -14,15 +14,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <%  int empId = Integer.parseInt(request.getParameter("empId"));
+        <%  int empId = Integer.parseInt(request.getParameter("empid"));
             String email = request.getParameter("email");
             String userName = request.getParameter("un");
             String password = request.getParameter("ps");
 
-            //step2: Print Data
-            out.println("<h1>UID " + empId + "</h1>");
-            out.println("<h1>Email " + email+ "</h1>");
-            out.println("<h1>Password " + password + "</h1>");
             //step3: Create an Object of UsersBean
             UserBean ub=new UserBean();
             //step4: set data into bean
@@ -35,7 +31,8 @@
             int r=ud.registerUser(ub);
             if(r>0){
                 out.println("<h1><font color='green'>User Registration Success</font></h1>");
-                RequestDispatcher rd = request.getRequestDispatcher("index.html");
+                RequestDispatcher rd = request.getRequestDispatcher("index.jsp");
+                rd.forward(request, response);
             }else{
                    out.println("<h1><font color='red'>User Registration Fail</font></h1>");
             }%>
